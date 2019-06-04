@@ -1,2 +1,2 @@
 Procrelease: ./release-task.sh
-web: ./bin/app
+web: ./bin/go-heroku
