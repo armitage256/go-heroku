@@ -7,11 +7,10 @@
     - Create
 
 - Clone Repository  
-    - Acess project dir
+    - Access project dir
     - go mod tidy
 
 - Create Simple HTTP Server
-
-- Add on Github
-- Git add .
--
+    - Git add .
+    - Git commit -m "commit"
+    - Git push
