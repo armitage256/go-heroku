@@ -1,7 +1,7 @@
 ## Golang with Heroku
 
 - Create Respository on Github
-    - [Add README](#README)
+    - [Add README](README)
     - Add Go
     - Add LICENSE
     - Create
@@ -26,3 +26,14 @@
     - Link to Github Repository
     - Enable Automatic Deploy
     - Deploy branch
+
+- Production
+    - add app
+        - name: goherokuh-production
+        - create app
+
+- Staging
+    - Promote to production
+
+- Production
+    - Open app in browser
