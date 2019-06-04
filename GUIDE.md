@@ -14,3 +14,6 @@
     - Git add .
     - Git commit -m "commit"
     - Git push
+
+- Heroku
+    - create ProcFile
